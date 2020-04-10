@@ -1,1 +1,4 @@
 # AI-Project
+# HUMAN BODY POSTURE RECOGNIATION
+
+Human posture recognition is gaining increasing attention in the field of computer vision due to its promising applications in the areas of personal health care, environmental awareness, human-computer-interaction and surveillance systems. With the development of image processing and computer vision techniques, it is possible to analysis human behavior automatically by recognition the posture of human body, which has become one of most significant research topic in both computer-based intelligent video surveillance system and pattern recognition area. Paper surveys the use of human body posture mechanism for interaction with the computers, describing various techniques for performing accurate recognition. In this paper different phase of human body posture discuss. Also include the different techniques for each phase of the system.
